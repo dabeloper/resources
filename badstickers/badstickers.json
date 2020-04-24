@@ -1,0 +1,15 @@
+[
+    {
+        "_id": 1,
+        "name": "test",
+        "icon": "test.png",
+        "packs": [
+              {
+            "_id": 1,
+            "name": "test_pack",
+            "icon": "test_pack.png",
+            "stickers": "test_pack.zip"
+            }
+         ]
+    }
+]
