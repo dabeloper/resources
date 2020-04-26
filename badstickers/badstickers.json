@@ -11,5 +11,18 @@
             "stickers": "test_pack.zip"
             }
          ]
+    },
+    {
+        "_id": 2,
+        "name": "Troll",
+        "icon": "troll.png",
+        "packs": [
+              {
+            "_id": 1,
+            "name": "troll",
+            "icon": "troll.png",
+            "stickers": "Troll.zip"
+            }
+         ]
     }
 ]
