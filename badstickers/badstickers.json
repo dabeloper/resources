@@ -5,14 +5,55 @@
         "desc": "test desc",
         "icon": "test.png",
         "packs": [
-              {
+            {
             "_id": 1,
             "name": "test_pack",
-            "desc": "test_pack desc",
             "icon": "test_pack.png",
             "stickers": "test_pack.zip"
+            },
+            {
+            "_id": 2,
+            "name": "test_pack2",
+            "icon": "test_pack2.png",
+            "stickers": "test_pack2.zip"
+            },
+            {
+            "_id": 3,
+            "name": "test_pack3",
+            "icon": "test_pack3.png",
+            "stickers": "test_pack3.zip"
+            },
+            {
+            "_id": 4,
+            "name": "test_pack4",
+            "icon": "test_pack4.png",
+            "stickers": "test_pack4.zip"
+            },
+            {
+            "_id": 5,
+            "name": "test_pack5",
+            "icon": "test_pack3.png",
+            "stickers": "test_pack3.zip"
+            },
+            {
+            "_id": 6,
+            "name": "test_pack6",
+            "icon": "test_pack4.png",
+            "stickers": "test_pack4.zip"
+            },
+            {
+            "_id": 7,
+            "name": "test_pack7",
+            "icon": "test_pack3.png",
+            "stickers": "test_pack3.zip"
+            },
+            {
+            "_id": 8,
+            "name": "test_pack8",
+            "icon": "test_pack4.png",
+            "stickers": "test_pack4.zip"
             }
-         ]
+            ]
     },
     {
         "_id": 2,
