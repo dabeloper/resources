@@ -2,11 +2,13 @@
     {
         "_id": 1,
         "name": "test",
+        "desc": "test desc",
         "icon": "test.png",
         "packs": [
               {
             "_id": 1,
             "name": "test_pack",
+            "desc": "test_pack desc",
             "icon": "test_pack.png",
             "stickers": "test_pack.zip"
             }
@@ -15,11 +17,13 @@
     {
         "_id": 2,
         "name": "Troll",
+        "desc": "Troll desc",
         "icon": "troll.png",
         "packs": [
               {
             "_id": 1,
             "name": "troll",
+            "desc": "troll desc",
             "icon": "troll.png",
             "stickers": "Troll.zip"
             }
