@@ -61,12 +61,19 @@
         "desc": "Troll desc",
         "icon": "troll.png",
         "packs": [
-              {
+            {
             "_id": 1,
             "name": "troll",
             "desc": "troll desc",
             "icon": "troll.png",
             "stickers": "Troll.zip"
+            },
+            {
+            "_id": 2,
+            "name": "compartida",
+            "desc": "compartida desc",
+            "icon": "troll.png",
+            "stickers": "8e37e3aa-f97c-4344-af3a-71d46090fb61.zip"
             }
          ]
     }
