@@ -59,7 +59,7 @@
         "_id": 2,
         "name": "Troll",
         "desc": "Troll desc",
-        "icon": "troll.png",
+        "icon": "troll-preview.webp",
         "packs": [
             {
             "_id": 1,
