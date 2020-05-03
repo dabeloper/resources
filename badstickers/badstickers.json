@@ -1,5 +1,16 @@
 [
     {
+        "_id": 0,
+        "name": "BAD",
+        "desc": "3 Pack ( 75 Stickers )",
+        "icon": "bad_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "bad_pack_1", "desc": "25 Stickers", "icon": "bad_pack_1-preview.webp", "stickers": "bad_pack_1.zip"},
+            {"_id": 2, "name": "bad_pack_2", "desc": "25 Stickers", "icon": "bad_pack_2-preview.webp", "stickers": "bad_pack_2.zip"},
+            {"_id": 3, "name": "bad_pack_3", "desc": "25 Stickers", "icon": "bad_pack_3-preview.webp", "stickers": "bad_pack_3.zip"}
+        ]
+    },
+    {
         "_id": 1,
         "name": "Simpsons",
         "desc": "8 Packs ( 200 Stickers )",
