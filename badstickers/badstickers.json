@@ -2,18 +2,32 @@
     {
         "_id": 0,
         "name": "BAD",
-        "desc": "3 Packs ( 75 Stickers )",
+        "desc": "7 Packs ( 175 Stickers )",
         "icon": "bad_pack_1-preview.webp",
         "packs": [
-            {"_id": 1, "name": "bad_pack_1", "desc": "25 Stickers", "icon": "bad_pack_1-preview.webp", "stickers": "bad_pack_1.zip"},
-            {"_id": 2, "name": "bad_pack_2", "desc": "25 Stickers", "icon": "bad_pack_2-preview.webp", "stickers": "bad_pack_2.zip"},
-            {"_id": 3, "name": "bad_pack_3", "desc": "25 Stickers", "icon": "bad_pack_3-preview.webp", "stickers": "bad_pack_3.zip"}
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "bad_pack_1-preview.webp", "stickers": "bad_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "bad_pack_2-preview.webp", "stickers": "bad_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "bad_pack_3-preview.webp", "stickers": "bad_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "bad_pack_4-preview.webp", "stickers": "bad_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "bad_pack_5-preview.webp", "stickers": "bad_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "bad_pack_6-preview.webp", "stickers": "bad_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "bad_pack_7-preview.webp", "stickers": "bad_pack_7.zip"}
+        ]
+    },
+    {
+        "_id": 12,
+        "name": "Chavo",
+        "desc": "2 Packs ( 50 Stickers )",
+        "icon": "chavo_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "chavo_pack_1-preview.webp", "stickers": "chavo_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "chavo_pack_2-preview.webp", "stickers": "chavo_pack_2.zip"}
         ]
     },
     {
         "_id": 1,
         "name": "Simpsons",
-        "desc": "8 Packs ( 200 Stickers )",
+        "desc": "16 Packs ( 400 Stickers )",
         "icon": "simpsons_pack_1-preview.webp",
         "packs": [
             { "_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "simpsons_pack_1-preview.webp", "stickers": "simpsons_pack_1.zip" },
@@ -23,7 +37,15 @@
             { "_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "simpsons_pack_5-preview.webp", "stickers": "simpsons_pack_5.zip" },
             { "_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "simpsons_pack_6-preview.webp", "stickers": "simpsons_pack_6.zip"},
             { "_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "simpsons_pack_7-preview.webp", "stickers": "simpsons_pack_7.zip" },
-            { "_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "simpsons_pack_8-preview.webp", "stickers": "simpsons_pack_8.zip" }
+            { "_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "simpsons_pack_8-preview.webp", "stickers": "simpsons_pack_8.zip" },
+            {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "simpsons_pack_9-preview.webp", "stickers": "simpsons_pack_9.zip"},
+            {"_id": 10, "name": "Pack 10", "desc": "25 Stickers", "icon": "simpsons_pack_10-preview.webp", "stickers": "simpsons_pack_10.zip"},
+            {"_id": 11, "name": "Pack 11", "desc": "24 Stickers", "icon": "simpsons_pack_11-preview.webp", "stickers": "simpsons_pack_11.zip"},
+            {"_id": 12, "name": "Pack 12", "desc": "25 Stickers", "icon": "simpsons_pack_12-preview.webp", "stickers": "simpsons_pack_12.zip"},
+            {"_id": 13, "name": "Pack 13", "desc": "25 Stickers", "icon": "simpsons_pack_13-preview.webp", "stickers": "simpsons_pack_13.zip"},
+            {"_id": 14, "name": "Pack 14", "desc": "25 Stickers", "icon": "simpsons_pack_14-preview.webp", "stickers": "simpsons_pack_14.zip"},
+            {"_id": 15, "name": "Pack 15", "desc": "25 Stickers", "icon": "simpsons_pack_15-preview.webp", "stickers": "simpsons_pack_15.zip"},
+            {"_id": 16, "name": "Pack 16", "desc": "25 Stickers", "icon": "simpsons_pack_16-preview.webp", "stickers": "simpsons_pack_16.zip"}
         ]
     },
     {
@@ -39,6 +61,44 @@
             {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "gatos_pack_5-preview.webp", "stickers": "gatos_pack_5.zip"},
             {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "gatos_pack_6-preview.webp", "stickers": "gatos_pack_6.zip"},
             {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "gatos_pack_7-preview.webp", "stickers": "gatos_pack_7.zip"}
+        ]
+    },
+    {
+        "_id": 14,
+        "name": "Perritus",
+        "desc": "6 Packs ( 150 Stickers )",
+        "icon": "dog_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "dog_pack_1-preview.webp", "stickers": "dog_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "dog_pack_2-preview.webp", "stickers": "dog_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "dog_pack_3-preview.webp", "stickers": "dog_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "dog_pack_4-preview.webp", "stickers": "dog_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "dog_pack_5-preview.webp", "stickers": "dog_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "dog_pack_6-preview.webp", "stickers": "dog_pack_6.zip"}
+        ]
+    },
+    {
+        "_id": 15,
+        "name": "Animal",
+        "desc": "4 Packs ( 100 Stickers )",
+        "icon": "animal_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "animal_pack_1-preview.webp", "stickers": "animal_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "animal_pack_2-preview.webp", "stickers": "animal_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "animal_pack_3-preview.webp", "stickers": "animal_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "animal_pack_4-preview.webp", "stickers": "animal_pack_4.zip"}
+        ]
+    },
+    {
+        "_id": 16,
+        "name": "Emojis",
+        "desc": "4 Packs ( 100 Stickers )",
+        "icon": "emoji_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "emoji_pack_1-preview.webp", "stickers": "emoji_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "emoji_pack_2-preview.webp", "stickers": "emoji_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "emoji_pack_3-preview.webp", "stickers": "emoji_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "emoji_pack_4-preview.webp", "stickers": "emoji_pack_4.zip"}
         ]
     },
     {
@@ -66,13 +126,31 @@
         ]
     },
     {
+        "_id": 13,
+        "name": "White Chicks",
+        "desc": "1 Pack ( 25 Stickers )",
+        "icon": "white_chicks_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "white_chicks_pack_1-preview.webp", "stickers": "white_chicks_pack_1.zip"}
+        ]
+    },
+    {
         "_id": 4,
-        "name": "Bob Sponge",
+        "name": "Bob Esponja",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "bob_sponge_pack_1-preview.webp",
         "packs": [
             { "_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "bob_sponge_pack_1-preview.webp", "stickers": "bob_sponge_pack_1.zip" },
             { "_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "bob_sponge_pack_2-preview.webp", "stickers": "bob_sponge_pack_2.zip" }
+        ]
+    },
+    {
+        "_id": 19,
+        "name": "Spiderman",
+        "desc": "1 Pack ( 25 Stickers )",
+        "icon": "spiderman_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "spiderman_pack_1-preview.webp", "stickers": "spiderman_pack_1.zip"}
         ]
     },
     {
@@ -99,7 +177,7 @@
     },
     {
         "_id": 7,
-        "name": "Tom nd Jerry",
+        "name": "Tom & Jerry",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "tom_jerry_pack_1-preview.webp",
         "packs": [
@@ -175,6 +253,26 @@
         "icon": "fuck_pack_1-preview.webp",
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "fuck_pack_1-preview.webp", "stickers": "fuck_pack_1.zip"}
+        ]
+    },
+    {
+        "_id": 17,
+        "name": "Auron Play ( Youtuber )",
+        "desc": "3 Packs ( 75 Stickers )",
+        "icon": "auron_play_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "auron_play_pack_1-preview.webp", "stickers": "auron_play_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "auron_play_pack_2-preview.webp", "stickers": "auron_play_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "auron_play_pack_3-preview.webp", "stickers": "auron_play_pack_3.zip"}
+        ]
+    },
+    {
+        "_id": 18,
+        "name": "Party",
+        "desc": "1 Pack ( 25 Stickers )",
+        "icon": "party_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "party_pack_1-preview.webp", "stickers": "party_pack_1.zip"}
         ]
     }
 ]
