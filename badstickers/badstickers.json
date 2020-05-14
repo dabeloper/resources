@@ -15,6 +15,30 @@
         ]
     },
     {
+        "_id": 19,
+        "name": "BRASIL",
+        "desc": "1 Pack ( 25 Stickers )",
+        "icon": "brasil_bad_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "BAD Pack 1", "desc": "25 Stickers", "icon": "brasil_bad_pack_1-preview.webp", "stickers": "brasil_bad_pack_1.zip"},
+            {"_id": 2, "name": "BAD Pack 2", "desc": "25 Stickers", "icon": "brasil_bad_pack_2-preview.webp", "stickers": "brasil_bad_pack_2.zip"},
+            {"_id": 3, "name": "BAD Pack 3", "desc": "25 Stickers", "icon": "brasil_bad_pack_3-preview.webp", "stickers": "brasil_bad_pack_3.zip"},
+            {"_id": 4, "name": "BAD Pack 4", "desc": "25 Stickers", "icon": "brasil_bad_pack_4-preview.webp", "stickers": "brasil_bad_pack_4.zip"},
+            {"_id": 5, "name": "BAD Pack 5", "desc": "25 Stickers", "icon": "brasil_bad_pack_5-preview.webp", "stickers": "brasil_bad_pack_5.zip"},
+            {"_id": 6, "name": "BAD Pack 6", "desc": "25 Stickers", "icon": "brasil_bad_pack_6-preview.webp", "stickers": "brasil_bad_pack_6.zip"},
+            {"_id": 7, "name": "BAD Pack 7", "desc": "25 Stickers", "icon": "brasil_bad_pack_7-preview.webp", "stickers": "brasil_bad_pack_7.zip"},
+            {"_id": 8, "name": "BAD Pack 8", "desc": "25 Stickers", "icon": "brasil_bad_pack_8-preview.webp", "stickers": "brasil_bad_pack_8.zip"},
+            {"_id": 9, "name": "Cumprimentar Pack 1", "desc": "25 Stickers", "icon": "brasil_cumprimentar_pack_1-preview.webp", "stickers": "brasil_cumprimentar_pack_1.zip"},
+            {"_id": 10, "name": "Cumprimentar Pack 2", "desc": "25 Stickers", "icon": "brasil_cumprimentar_pack_2-preview.webp", "stickers": "brasil_cumprimentar_pack_2.zip"},
+            {"_id": 11, "name": "Cumprimentar Pack 3", "desc": "25 Stickers", "icon": "brasil_cumprimentar_pack_3-preview.webp", "stickers": "brasil_cumprimentar_pack_3.zip"},
+            {"_id": 12, "name": "Texto Pack 1", "desc": "25 Stickers", "icon": "brasil_texto_pack_1-preview.webp", "stickers": "brasil_texto_pack_1.zip"},
+            {"_id": 13, "name": "Texto Pack 2", "desc": "25 Stickers", "icon": "brasil_texto_pack_2-preview.webp", "stickers": "brasil_texto_pack_2.zip"},
+            {"_id": 14, "name": "Cartoon Pack 1", "desc": "25 Stickers", "icon": "brasil_cartoon_pack_1-preview.webp", "stickers": "brasil_cartoon_pack_1.zip"},
+            {"_id": 15, "name": "Cartoon Pack 2", "desc": "25 Stickers", "icon": "brasil_cartoon_pack_2-preview.webp", "stickers": "brasil_cartoon_pack_2.zip"}
+
+        ]
+    },
+    {
         "_id": 12,
         "name": "Chavo",
         "desc": "2 Packs ( 50 Stickers )",
