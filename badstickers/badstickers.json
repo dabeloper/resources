@@ -39,6 +39,20 @@
         ]
     },
     {
+        "_id": 20,
+        "name": "COLOMBIA",
+        "desc": "6 Packs ( 150 Stickers )",
+        "icon": "colombia_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "colombia_pack_1-preview.webp", "stickers": "colombia_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "colombia_pack_2-preview.webp", "stickers": "colombia_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "colombia_pack_3-preview.webp", "stickers": "colombia_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "colombia_pack_4-preview.webp", "stickers": "colombia_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "colombia_pack_5-preview.webp", "stickers": "colombia_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "colombia_pack_6-preview.webp", "stickers": "colombia_pack_6.zip"}
+        ]
+    },
+    {
         "_id": 12,
         "name": "Chavo",
         "desc": "2 Packs ( 50 Stickers )",
