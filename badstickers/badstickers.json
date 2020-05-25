@@ -254,6 +254,18 @@
         ]
     },
     {
+        "_id": 38,
+        "name": "Pokemon",
+        "desc": "4 Packs ( 100 Stickers )",
+        "icon": "pokemon_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "pokemon_pack_1-preview.webp", "stickers": "pokemon_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "pokemon_pack_2-preview.webp", "stickers": "pokemon_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "pokemon_pack_3-preview.webp", "stickers": "pokemon_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "pokemon_pack_4-preview.webp", "stickers": "pokemon_pack_4.zip"}
+        ]
+    },
+    {
         "_id": 8,
         "name": "LOL",
         "desc": "8 Packs ( 200 Stickers )",
@@ -423,6 +435,21 @@
         ]
     },
     {
+        "_id": 37,
+        "name": "Pocoyo",
+        "desc": "6 Packs ( 150 Stickers )",
+        "icon": "pocoyo_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "pocoyo_pack_1-preview.webp", "stickers": "pocoyo_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "pocoyo_pack_2-preview.webp", "stickers": "pocoyo_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "pocoyo_pack_3-preview.webp", "stickers": "pocoyo_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "pocoyo_pack_4-preview.webp", "stickers": "pocoyo_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "pocoyo_pack_5-preview.webp", "stickers": "pocoyo_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "pocoyo_pack_6-preview.webp", "stickers": "pocoyo_pack_6.zip"}
+
+        ]
+    },
+    {
         "_id": 27,
         "name": "Comicaina",
         "desc": "3 Packs ( 75 Stickers )",
@@ -484,6 +511,15 @@
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "comida_pack_1-preview.webp", "stickers": "comida_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "comida_pack_2-preview.webp", "stickers": "comida_pack_2.zip"}
         ]
-    }
+    },
+    {
+        "_id": 39,
+        "name": "Natanael Cano",
+        "desc": "1 Packs ( 25 Stickers )",
+        "icon": "natanael_cano_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "natanael_cano_pack_1-preview.webp", "stickers": "natanael_cano_pack_1.zip"}
+        ]
+    },
     
 ]
