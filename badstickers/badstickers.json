@@ -515,11 +515,11 @@
     {
         "_id": 39,
         "name": "Natanael Cano",
-        "desc": "1 Packs ( 25 Stickers )",
+        "desc": "1 Pack ( 25 Stickers )",
         "icon": "natanael_cano_pack_1-preview.webp",
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "natanael_cano_pack_1-preview.webp", "stickers": "natanael_cano_pack_1.zip"}
         ]
-    },
+    }
     
 ]
