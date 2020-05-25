@@ -520,6 +520,42 @@
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "natanael_cano_pack_1-preview.webp", "stickers": "natanael_cano_pack_1.zip"}
         ]
+    },
+    {
+        "_id": 40,
+        "name": "Harry Potter",
+        "desc": "2 Packs ( 50 Stickers )",
+        "icon": "harry_potter_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "harry_potter_pack_1-preview.webp", "stickers": "harry_potter_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "harry_potter_pack_2-preview.webp", "stickers": "harry_potter_pack_2.zip"}
+        ]
+    },
+    {
+        "_id": 41,
+        "name": "DeadPool",
+        "desc": "1 Pack ( 25 Stickers )",
+        "icon": "deadpool_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "deadpool_pack_1-preview.webp", "stickers": "deadpool_pack_1.zip"}
+        ]
+    },
+    {
+        "_id": 42,
+        "name": "Mujeres ( Para Ellas )",
+        "desc": "9 Pack ( 225 Stickers )",
+        "icon": "mujeres_pack_1-preview.webp",
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "mujeres_pack_1-preview.webp", "stickers": "mujeres_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "mujeres_pack_2-preview.webp", "stickers": "mujeres_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "mujeres_pack_3-preview.webp", "stickers": "mujeres_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "mujeres_pack_4-preview.webp", "stickers": "mujeres_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "mujeres_pack_5-preview.webp", "stickers": "mujeres_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "mujeres_pack_6-preview.webp", "stickers": "mujeres_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "mujeres_pack_7-preview.webp", "stickers": "mujeres_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "mujeres_pack_8-preview.webp", "stickers": "mujeres_pack_8.zip"},
+            {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "mujeres_pack_9-preview.webp", "stickers": "mujeres_pack_9.zip"}
+        ]
     }
     
 ]
