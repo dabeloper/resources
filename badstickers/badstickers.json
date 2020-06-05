@@ -587,7 +587,7 @@
     {
         "_id": 42,
         "name": "Mujeres ( Para Ellas )",
-        "desc": "9 Pack ( 225 Stickers )",
+        "desc": "9 Packs ( 225 Stickers )",
         "icon": "mujeres_pack_1-preview.webp",
         "tags": [],
         "packs": [
@@ -605,8 +605,8 @@
     {
         "_id": 43,
         "name": "Pareja",
-        "desc": "9 Pack ( 150 Stickers )",
-        "icon": "mujeres_pack_1-preview.webp",
+        "desc": "6 Packs ( 150 Stickers )",
+        "icon": "pareja_pack_1-preview.webp",
         "tags": ["love", "amor", "cariño"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "pareja_pack_1-preview.webp", "stickers": "pareja_pack_1.zip"},
