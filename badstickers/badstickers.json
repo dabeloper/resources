@@ -4,6 +4,7 @@
         "name": "BAD",
         "desc": "7 Packs ( 175 Stickers )",
         "icon": "bad_pack_1-preview.webp",
+        "tags": ["irreverente"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "bad_pack_1-preview.webp", "stickers": "bad_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "bad_pack_2-preview.webp", "stickers": "bad_pack_2.zip"},
@@ -19,6 +20,7 @@
         "name": "BRASIL",
         "desc": "15 Packs ( 375 Stickers )",
         "icon": "brasil_bad_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "BAD Pack 1", "desc": "25 Stickers", "icon": "brasil_bad_pack_1-preview.webp", "stickers": "brasil_bad_pack_1.zip"},
             {"_id": 2, "name": "BAD Pack 2", "desc": "25 Stickers", "icon": "brasil_bad_pack_2-preview.webp", "stickers": "brasil_bad_pack_2.zip"},
@@ -43,6 +45,7 @@
         "name": "COLOMBIA",
         "desc": "6 Packs ( 150 Stickers )",
         "icon": "colombia_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "colombia_pack_1-preview.webp", "stickers": "colombia_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "colombia_pack_2-preview.webp", "stickers": "colombia_pack_2.zip"},
@@ -57,6 +60,7 @@
         "name": "Chavo",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "chavo_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "chavo_pack_1-preview.webp", "stickers": "chavo_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "chavo_pack_2-preview.webp", "stickers": "chavo_pack_2.zip"}
@@ -67,6 +71,7 @@
         "name": "Simpsons",
         "desc": "16 Packs ( 400 Stickers )",
         "icon": "simpsons_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             { "_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "simpsons_pack_1-preview.webp", "stickers": "simpsons_pack_1.zip" },
             { "_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "simpsons_pack_2-preview.webp", "stickers": "simpsons_pack_2.zip" },
@@ -91,6 +96,7 @@
         "name": "Joker",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "joker_pack_1-preview.webp",
+        "tags": ["cartoon","movie","pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "joker_pack_1-preview.webp", "stickers": "joker_pack_1.zip"}
         ]
@@ -100,6 +106,7 @@
         "name": "En Secuencia",
         "desc": "14 Packs ( 350 Stickers )",
         "icon": "secuencia_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "secuencia_pack_1-preview.webp", "stickers": "secuencia_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "secuencia_pack_2-preview.webp", "stickers": "secuencia_pack_2.zip"},
@@ -122,6 +129,7 @@
         "name": "Gatos",
         "desc": "7 Packs ( 175 Stickers )",
         "icon": "gatos_pack_1-preview.webp",
+        "tags": ["gato", "cat"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "gatos_pack_1-preview.webp", "stickers": "gatos_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "gatos_pack_2-preview.webp", "stickers": "gatos_pack_2.zip"},
@@ -137,6 +145,7 @@
         "name": "Perritus",
         "desc": "6 Packs ( 150 Stickers )",
         "icon": "dog_pack_1-preview.webp",
+        "tags": ["perro", "dog"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "dog_pack_1-preview.webp", "stickers": "dog_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "dog_pack_2-preview.webp", "stickers": "dog_pack_2.zip"},
@@ -151,6 +160,7 @@
         "name": "Animal",
         "desc": "4 Packs ( 100 Stickers )",
         "icon": "animal_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "animal_pack_1-preview.webp", "stickers": "animal_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "animal_pack_2-preview.webp", "stickers": "animal_pack_2.zip"},
@@ -163,6 +173,7 @@
         "name": "Emojis",
         "desc": "4 Packs ( 100 Stickers )",
         "icon": "emoji_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "emoji_pack_1-preview.webp", "stickers": "emoji_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "emoji_pack_2-preview.webp", "stickers": "emoji_pack_2.zip"},
@@ -175,6 +186,7 @@
         "name": "Love",
         "desc": "16 Packs ( 400 Stickers )",
         "icon": "love_pack_1-preview.webp",
+        "tags": ["cartoon", "amor", "love", "pareja"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "love_pack_1-preview.webp", "stickers": "love_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "love_pack_2-preview.webp", "stickers": "love_pack_2.zip"},
@@ -199,6 +211,7 @@
         "name": "White Chicks",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "white_chicks_pack_1-preview.webp",
+        "tags": ["movie", "pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "white_chicks_pack_1-preview.webp", "stickers": "white_chicks_pack_1.zip"}
         ]
@@ -208,6 +221,7 @@
         "name": "Bob Esponja",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "bob_sponge_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             { "_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "bob_sponge_pack_1-preview.webp", "stickers": "bob_sponge_pack_1.zip" },
             { "_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "bob_sponge_pack_2-preview.webp", "stickers": "bob_sponge_pack_2.zip" }
@@ -218,6 +232,7 @@
         "name": "Spiderman",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "spiderman_pack_1-preview.webp",
+        "tags": ["cartoon", "movie", "pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "spiderman_pack_1-preview.webp", "stickers": "spiderman_pack_1.zip"}
         ]
@@ -227,6 +242,7 @@
         "name": "Meme",
         "desc": "4 Packs ( 100 Stickers )",
         "icon": "meme_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             { "_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "meme_pack_1-preview.webp", "stickers": "meme_pack_1.zip" },
             { "_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "meme_pack_2-preview.webp", "stickers": "meme_pack_2.zip" },
@@ -239,6 +255,7 @@
         "name": "Muppets",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "muppets_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "muppets_pack_1-preview.webp", "stickers": "muppets_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "muppets_pack_2-preview.webp", "stickers": "muppets_pack_2.zip"}
@@ -249,6 +266,7 @@
         "name": "Tom & Jerry",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "tom_jerry_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "tom_jerry_pack_1", "desc": "25 Stickers", "icon": "tom_jerry_pack_1-preview.webp", "stickers": "tom_jerry_pack_1.zip"}
         ]
@@ -258,6 +276,7 @@
         "name": "Pokemon",
         "desc": "4 Packs ( 100 Stickers )",
         "icon": "pokemon_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "pokemon_pack_1-preview.webp", "stickers": "pokemon_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "pokemon_pack_2-preview.webp", "stickers": "pokemon_pack_2.zip"},
@@ -270,6 +289,7 @@
         "name": "LOL",
         "desc": "8 Packs ( 200 Stickers )",
         "icon": "lol_pack_1-preview.webp",
+        "tags": ["feliz", "risa", "lol"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "lol_pack_1-preview.webp", "stickers": "lol_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "lol_pack_2-preview.webp", "stickers": "lol_pack_2.zip"},
@@ -286,6 +306,7 @@
         "name": "Sad",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "sad_pack_1-preview.webp",
+        "tags": ["triste", "sad"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "sad_pack_1-preview.webp", "stickers": "sad_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "sad_pack_2-preview.webp", "stickers": "sad_pack_2.zip"}
@@ -296,6 +317,7 @@
         "name": "OK",
         "desc": "3 Packs ( 75 Stickers )",
         "icon": "ok_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "ok_pack_1-preview.webp", "stickers": "ok_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "ok_pack_2-preview.webp", "stickers": "ok_pack_2.zip"},
@@ -307,6 +329,7 @@
         "name": "OMG",
         "desc": "1 Packs ( 25 Stickers )",
         "icon": "omg_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "omg_pack_1-preview.webp", "stickers": "omg_pack_1.zip"}
         ]
@@ -316,6 +339,7 @@
         "name": "Respuestas Rapidas",
         "desc": "5 Packs ( 125 Stickers )",
         "icon": "respuestas_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "respuestas_pack_1-preview.webp", "stickers": "respuestas_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "respuestas_pack_2-preview.webp", "stickers": "respuestas_pack_2.zip"},
@@ -329,6 +353,7 @@
         "name": "Respuestas con Texto",
         "desc": "5 Packs ( 125 Stickers )",
         "icon": "texto_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "texto_pack_1-preview.webp", "stickers": "texto_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "texto_pack_2-preview.webp", "stickers": "texto_pack_2.zip"},
@@ -342,15 +367,17 @@
         "name": "Fuck",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "fuck_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "fuck_pack_1-preview.webp", "stickers": "fuck_pack_1.zip"}
         ]
     },
     {
         "_id": 17,
-        "name": "Auron Play ( Youtuber )",
+        "name": "Auron Play",
         "desc": "3 Packs ( 75 Stickers )",
         "icon": "auron_play_pack_1-preview.webp",
+        "tags": ["youtube"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "auron_play_pack_1-preview.webp", "stickers": "auron_play_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "auron_play_pack_2-preview.webp", "stickers": "auron_play_pack_2.zip"},
@@ -362,15 +389,17 @@
         "name": "Party",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "party_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "party_pack_1-preview.webp", "stickers": "party_pack_1.zip"}
         ]
     },
     {
         "_id": 21,
-        "name": "Hentai ( Anime )",
+        "name": "Hentai",
         "desc": "5 Packs ( 125 Stickers )",
         "icon": "anime_hentai_pack_1-preview.webp",
+        "tags": ["cartoon" , "anime", "+18"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "anime_hentai_pack_1-preview.webp", "stickers": "anime_hentai_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "anime_hentai_pack_2-preview.webp", "stickers": "anime_hentai_pack_2.zip"},
@@ -381,9 +410,10 @@
     },
     {
         "_id": 22,
-        "name": "Menhera Kun ( Anime )",
+        "name": "Menhera Kun",
         "desc": "6 Packs ( 150 Stickers )",
         "icon": "anime_menhera_kun_pack_1-preview.webp",
+        "tags": ["cartoon" , "anime"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "anime_menhera_kun_pack_1-preview.webp", "stickers": "anime_menhera_kun_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "anime_menhera_kun_pack_2-preview.webp", "stickers": "anime_menhera_kun_pack_2.zip"},
@@ -395,9 +425,10 @@
     },
     {
         "_id": 23,
-        "name": "Naruto ( Anime )",
+        "name": "Naruto",
         "desc": "3 Packs ( 75 Stickers )",
         "icon": "anime_naruto_pack_1-preview.webp",
+        "tags": ["cartoon" , "anime"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "anime_naruto_pack_1-preview.webp", "stickers": "anime_naruto_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "anime_naruto_pack_2-preview.webp", "stickers": "anime_naruto_pack_2.zip"},
@@ -409,6 +440,7 @@
         "name": "Batman",
         "desc": "3 Packs ( 75 Stickers )",
         "icon": "batman_pack_1-preview.webp",
+        "tags": ["cartoon" , "movie", "pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "batman_pack_1-preview.webp", "stickers": "batman_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "batman_pack_2-preview.webp", "stickers": "batman_pack_2.zip"},
@@ -420,6 +452,7 @@
         "name": "American Dad",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "american_dad_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "american_dad_pack_1-preview.webp", "stickers": "american_dad_pack_1.zip"}
         ]
@@ -429,6 +462,7 @@
         "name": "Chicas superpoderosas",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "chicas_superpoderosas_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "chicas_superpoderosas_pack_1-preview.webp", "stickers": "chicas_superpoderosas_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "chicas_superpoderosas_pack_2-preview.webp", "stickers": "chicas_superpoderosas_pack_2.zip"}
@@ -439,6 +473,7 @@
         "name": "Pocoyo",
         "desc": "6 Packs ( 150 Stickers )",
         "icon": "pocoyo_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "pocoyo_pack_1-preview.webp", "stickers": "pocoyo_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "pocoyo_pack_2-preview.webp", "stickers": "pocoyo_pack_2.zip"},
@@ -454,6 +489,7 @@
         "name": "Comicaina",
         "desc": "3 Packs ( 75 Stickers )",
         "icon": "comicaina_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "comicaina_pack_1-preview.webp", "stickers": "comicaina_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "comicaina_pack_2-preview.webp", "stickers": "comicaina_pack_2.zip"},
@@ -465,6 +501,7 @@
         "name": "Rick & Morty",
         "desc": "5 Packs ( 125 Stickers )",
         "icon": "rick_morty_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "rick_morty_pack_1-preview.webp", "stickers": "rick_morty_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "rick_morty_pack_2-preview.webp", "stickers": "rick_morty_pack_2.zip"},
@@ -478,6 +515,7 @@
         "name": "Shrek",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "shrek_pack_1-preview.webp",
+        "tags": ["cartoon" , "movie", "pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "shrek_pack_1-preview.webp", "stickers": "shrek_pack_1.zip"}
         ]
@@ -487,6 +525,7 @@
         "name": "Snoopy",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "snoopy_pack_1-preview.webp",
+        "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "snoopy_pack_1-preview.webp", "stickers": "snoopy_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "snoopy_pack_2-preview.webp", "stickers": "snoopy_pack_2.zip"}
@@ -497,6 +536,7 @@
         "name": "Star Wars",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "star_wars_pack_2-preview.webp",
+        "tags": ["cartoon" , "movie", "pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "star_wars_pack_1-preview.webp", "stickers": "star_wars_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "star_wars_pack_2-preview.webp", "stickers": "star_wars_pack_2.zip"}
@@ -507,6 +547,7 @@
         "name": "Comida",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "comida_pack_2-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "comida_pack_1-preview.webp", "stickers": "comida_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "comida_pack_2-preview.webp", "stickers": "comida_pack_2.zip"}
@@ -517,6 +558,7 @@
         "name": "Natanael Cano",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "natanael_cano_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "natanael_cano_pack_1-preview.webp", "stickers": "natanael_cano_pack_1.zip"}
         ]
@@ -526,6 +568,7 @@
         "name": "Harry Potter",
         "desc": "2 Packs ( 50 Stickers )",
         "icon": "harry_potter_pack_1-preview.webp",
+        "tags": ["cartoon" , "movie", "pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "harry_potter_pack_1-preview.webp", "stickers": "harry_potter_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "harry_potter_pack_2-preview.webp", "stickers": "harry_potter_pack_2.zip"}
@@ -536,6 +579,7 @@
         "name": "DeadPool",
         "desc": "1 Pack ( 25 Stickers )",
         "icon": "deadpool_pack_1-preview.webp",
+        "tags": ["cartoon" , "movie", "pelicula"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "deadpool_pack_1-preview.webp", "stickers": "deadpool_pack_1.zip"}
         ]
@@ -545,6 +589,7 @@
         "name": "Mujeres ( Para Ellas )",
         "desc": "9 Pack ( 225 Stickers )",
         "icon": "mujeres_pack_1-preview.webp",
+        "tags": [],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "mujeres_pack_1-preview.webp", "stickers": "mujeres_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "mujeres_pack_2-preview.webp", "stickers": "mujeres_pack_2.zip"},
@@ -555,6 +600,21 @@
             {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "mujeres_pack_7-preview.webp", "stickers": "mujeres_pack_7.zip"},
             {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "mujeres_pack_8-preview.webp", "stickers": "mujeres_pack_8.zip"},
             {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "mujeres_pack_9-preview.webp", "stickers": "mujeres_pack_9.zip"}
+        ]
+    },
+    {
+        "_id": 43,
+        "name": "Pareja",
+        "desc": "9 Pack ( 150 Stickers )",
+        "icon": "mujeres_pack_1-preview.webp",
+        "tags": ["love", "amor", "cariño"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "pareja_pack_1-preview.webp", "stickers": "pareja_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "pareja_pack_2-preview.webp", "stickers": "pareja_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "pareja_pack_3-preview.webp", "stickers": "pareja_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "pareja_pack_4-preview.webp", "stickers": "pareja_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "pareja_pack_5-preview.webp", "stickers": "pareja_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "pareja_pack_6-preview.webp", "stickers": "pareja_pack_6.zip"}
         ]
     }
     
