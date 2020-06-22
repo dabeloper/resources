@@ -127,7 +127,7 @@
     {
         "_id": 2,
         "name": "Gatos",
-        "desc": "7 Packs ( 175 Stickers )",
+        "desc": "20 Packs ( 500 Stickers )",
         "icon": "gatos_pack_1-preview.webp",
         "tags": ["gato", "cat"],
         "packs": [
@@ -137,13 +137,26 @@
             {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "gatos_pack_4-preview.webp", "stickers": "gatos_pack_4.zip"},
             {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "gatos_pack_5-preview.webp", "stickers": "gatos_pack_5.zip"},
             {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "gatos_pack_6-preview.webp", "stickers": "gatos_pack_6.zip"},
-            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "gatos_pack_7-preview.webp", "stickers": "gatos_pack_7.zip"}
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "gatos_pack_7-preview.webp", "stickers": "gatos_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "gatos_pack_8-preview.webp", "stickers": "gatos_pack_8.zip"},
+            {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "gatos_pack_9-preview.webp", "stickers": "gatos_pack_9.zip"},
+            {"_id": 10, "name": "Pack 10", "desc": "25 Stickers", "icon": "gatos_pack_10-preview.webp", "stickers": "gatos_pack_10.zip"},
+            {"_id": 11, "name": "Pack 11", "desc": "25 Stickers", "icon": "gatos_pack_11-preview.webp", "stickers": "gatos_pack_11.zip"},
+            {"_id": 12, "name": "Pack 12", "desc": "25 Stickers", "icon": "gatos_pack_12-preview.webp", "stickers": "gatos_pack_12.zip"},
+            {"_id": 13, "name": "Pack 13", "desc": "25 Stickers", "icon": "gatos_pack_13-preview.webp", "stickers": "gatos_pack_13.zip"},
+            {"_id": 14, "name": "Pack 14", "desc": "25 Stickers", "icon": "gatos_pack_14-preview.webp", "stickers": "gatos_pack_14.zip"},
+            {"_id": 15, "name": "Pack 15", "desc": "25 Stickers", "icon": "gatos_pack_15-preview.webp", "stickers": "gatos_pack_15.zip"},
+            {"_id": 16, "name": "Pack 16", "desc": "25 Stickers", "icon": "gatos_pack_16-preview.webp", "stickers": "gatos_pack_16.zip"},
+            {"_id": 17, "name": "Pack 17", "desc": "25 Stickers", "icon": "gatos_pack_17-preview.webp", "stickers": "gatos_pack_17.zip"},
+            {"_id": 18, "name": "Pack 18", "desc": "25 Stickers", "icon": "gatos_pack_18-preview.webp", "stickers": "gatos_pack_18.zip"},
+            {"_id": 19, "name": "Pack 19", "desc": "25 Stickers", "icon": "gatos_pack_19-preview.webp", "stickers": "gatos_pack_19.zip"},
+            {"_id": 20, "name": "Pack 20", "desc": "25 Stickers", "icon": "gatos_pack_20-preview.webp", "stickers": "gatos_pack_20.zip"}
         ]
     },
     {
         "_id": 14,
         "name": "Perritus",
-        "desc": "6 Packs ( 150 Stickers )",
+        "desc": "14 Packs ( 350 Stickers )",
         "icon": "dog_pack_1-preview.webp",
         "tags": ["perro", "dog"],
         "packs": [
@@ -152,7 +165,15 @@
             {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "dog_pack_3-preview.webp", "stickers": "dog_pack_3.zip"},
             {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "dog_pack_4-preview.webp", "stickers": "dog_pack_4.zip"},
             {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "dog_pack_5-preview.webp", "stickers": "dog_pack_5.zip"},
-            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "dog_pack_6-preview.webp", "stickers": "dog_pack_6.zip"}
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "dog_pack_6-preview.webp", "stickers": "dog_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "dog_pack_7-preview.webp", "stickers": "dog_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "dog_pack_8-preview.webp", "stickers": "dog_pack_8.zip"},
+            {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "dog_pack_9-preview.webp", "stickers": "dog_pack_9.zip"},
+            {"_id": 10, "name": "Pack 10", "desc": "25 Stickers", "icon": "dog_pack_10-preview.webp", "stickers": "dog_pack_10.zip"},
+            {"_id": 11, "name": "Pack 11", "desc": "25 Stickers", "icon": "dog_pack_11-preview.webp", "stickers": "dog_pack_11.zip"},
+            {"_id": 12, "name": "Pack 12", "desc": "25 Stickers", "icon": "dog_pack_12-preview.webp", "stickers": "dog_pack_12.zip"},
+            {"_id": 13, "name": "Pack 13", "desc": "25 Stickers", "icon": "dog_pack_13-preview.webp", "stickers": "dog_pack_13.zip"},
+            {"_id": 14, "name": "Pack 14", "desc": "25 Stickers", "icon": "dog_pack_14-preview.webp", "stickers": "dog_pack_14.zip"}
         ]
     },
     {
@@ -171,14 +192,23 @@
     {
         "_id": 16,
         "name": "Emojis",
-        "desc": "4 Packs ( 100 Stickers )",
+        "desc": "13 Packs ( 325 Stickers )",
         "icon": "emoji_pack_1-preview.webp",
         "tags": ["cartoon"],
         "packs": [
             {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "emoji_pack_1-preview.webp", "stickers": "emoji_pack_1.zip"},
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "emoji_pack_2-preview.webp", "stickers": "emoji_pack_2.zip"},
             {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "emoji_pack_3-preview.webp", "stickers": "emoji_pack_3.zip"},
-            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "emoji_pack_4-preview.webp", "stickers": "emoji_pack_4.zip"}
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "emoji_pack_4-preview.webp", "stickers": "emoji_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "emoji_pack_5-preview.webp", "stickers": "emoji_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "emoji_pack_6-preview.webp", "stickers": "emoji_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "emoji_pack_7-preview.webp", "stickers": "emoji_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "emoji_pack_8-preview.webp", "stickers": "emoji_pack_8.zip"},
+            {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "emoji_pack_9-preview.webp", "stickers": "emoji_pack_9.zip"},
+            {"_id": 10, "name": "Pack 10", "desc": "25 Stickers", "icon": "emoji_pack_10-preview.webp", "stickers": "emoji_pack_10.zip"},
+            {"_id": 11, "name": "Pack 11", "desc": "25 Stickers", "icon": "emoji_pack_11-preview.webp", "stickers": "emoji_pack_11.zip"},
+            {"_id": 12, "name": "Pack 12", "desc": "25 Stickers", "icon": "emoji_pack_12-preview.webp", "stickers": "emoji_pack_12.zip"},
+            {"_id": 13, "name": "Pack 13", "desc": "25 Stickers", "icon": "emoji_pack_13-preview.webp", "stickers": "emoji_pack_13.zip"}
         ]
     },
     {
@@ -219,12 +249,21 @@
     {
         "_id": 4,
         "name": "Bob Esponja",
-        "desc": "2 Packs ( 50 Stickers )",
+        "desc": "11 Packs ( 250 Stickers )",
         "icon": "bob_sponge_pack_1-preview.webp",
         "tags": ["cartoon"],
         "packs": [
-            { "_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "bob_sponge_pack_1-preview.webp", "stickers": "bob_sponge_pack_1.zip" },
-            { "_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "bob_sponge_pack_2-preview.webp", "stickers": "bob_sponge_pack_2.zip" }
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "bob_sponge_pack_1-preview.webp", "stickers": "bob_sponge_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "bob_sponge_pack_2-preview.webp", "stickers": "bob_sponge_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "bob_sponge_pack_3-preview.webp", "stickers": "bob_sponge_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "bob_sponge_pack_4-preview.webp", "stickers": "bob_sponge_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "bob_sponge_pack_5-preview.webp", "stickers": "bob_sponge_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "bob_sponge_pack_6-preview.webp", "stickers": "bob_sponge_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "bob_sponge_pack_7-preview.webp", "stickers": "bob_sponge_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "bob_sponge_pack_8-preview.webp", "stickers": "bob_sponge_pack_8.zip"},
+            {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "bob_sponge_pack_9-preview.webp", "stickers": "bob_sponge_pack_9.zip"},
+            {"_id": 10, "name": "Pack 10", "desc": "25 Stickers", "icon": "bob_sponge_pack_10-preview.webp", "stickers": "bob_sponge_pack_10.zip"},
+            {"_id": 11, "name": "Pack 11", "desc": "25 Stickers", "icon": "bob_sponge_pack_11-preview.webp", "stickers": "bob_sponge_pack_11.zip"}
         ]
     },
     {
@@ -397,7 +436,7 @@
     {
         "_id": 21,
         "name": "Hentai",
-        "desc": "5 Packs ( 125 Stickers )",
+        "desc": "8 Packs ( 200 Stickers )",
         "icon": "anime_hentai_pack_1-preview.webp",
         "tags": ["cartoon" , "anime", "+18"],
         "packs": [
@@ -405,7 +444,10 @@
             {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "anime_hentai_pack_2-preview.webp", "stickers": "anime_hentai_pack_2.zip"},
             {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "anime_hentai_pack_3-preview.webp", "stickers": "anime_hentai_pack_3.zip"},
             {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "anime_hentai_pack_4-preview.webp", "stickers": "anime_hentai_pack_4.zip"},
-            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "anime_hentai_pack_5-preview.webp", "stickers": "anime_hentai_pack_5.zip"}
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "anime_hentai_pack_5-preview.webp", "stickers": "anime_hentai_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "hentai_pack_6-preview.webp", "stickers": "hentai_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "hentai_pack_7-preview.webp", "stickers": "hentai_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "hentai_pack_8-preview.webp", "stickers": "hentai_pack_8.zip"}
         ]
     },
     {
@@ -605,7 +647,7 @@
     {
         "_id": 43,
         "name": "Pareja",
-        "desc": "6 Packs ( 150 Stickers )",
+        "desc": "15 Packs ( 375 Stickers )",
         "icon": "pareja_pack_1-preview.webp",
         "tags": ["love", "amor", "cariño"],
         "packs": [
@@ -614,7 +656,117 @@
             {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "pareja_pack_3-preview.webp", "stickers": "pareja_pack_3.zip"},
             {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "pareja_pack_4-preview.webp", "stickers": "pareja_pack_4.zip"},
             {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "pareja_pack_5-preview.webp", "stickers": "pareja_pack_5.zip"},
-            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "pareja_pack_6-preview.webp", "stickers": "pareja_pack_6.zip"}
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "pareja_pack_6-preview.webp", "stickers": "pareja_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "pareja_pack_7-preview.webp", "stickers": "pareja_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "pareja_pack_8-preview.webp", "stickers": "pareja_pack_8.zip"},
+            {"_id": 9, "name": "Pack 9", "desc": "25 Stickers", "icon": "pareja_pack_9-preview.webp", "stickers": "pareja_pack_9.zip"},
+            {"_id": 10, "name": "Pack 10", "desc": "25 Stickers", "icon": "pareja_pack_10-preview.webp", "stickers": "pareja_pack_10.zip"},
+            {"_id": 11, "name": "Pack 11", "desc": "25 Stickers", "icon": "pareja_pack_11-preview.webp", "stickers": "pareja_pack_11.zip"},
+            {"_id": 12, "name": "Pack 12", "desc": "25 Stickers", "icon": "pareja_pack_12-preview.webp", "stickers": "pareja_pack_12.zip"},
+            {"_id": 13, "name": "Pack 13", "desc": "25 Stickers", "icon": "pareja_pack_13-preview.webp", "stickers": "pareja_pack_13.zip"},
+            {"_id": 14, "name": "Pack 14", "desc": "25 Stickers", "icon": "pareja_pack_14-preview.webp", "stickers": "pareja_pack_14.zip"},
+            {"_id": 15, "name": "Pack 15", "desc": "25 Stickers", "icon": "pareja_pack_15-preview.webp", "stickers": "pareja_pack_15.zip"}
+        ]
+    },
+    {
+        "_id": 44,
+        "name": "Dragon Ball",
+        "desc": "8 Packs ( 200 Stickers )",
+        "icon": "dragon_ball_pack_1-preview.webp",
+        "tags": ["love", "amor", "cartoon"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "dragon_ball_pack_1-preview.webp", "stickers": "dragon_ball_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "dragon_ball_pack_2-preview.webp", "stickers": "dragon_ball_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "dragon_ball_pack_3-preview.webp", "stickers": "dragon_ball_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "dragon_ball_pack_4-preview.webp", "stickers": "dragon_ball_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "dragon_ball_pack_5-preview.webp", "stickers": "dragon_ball_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "dragon_ball_pack_6-preview.webp", "stickers": "dragon_ball_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "dragon_ball_pack_7-preview.webp", "stickers": "dragon_ball_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "dragon_ball_pack_8-preview.webp", "stickers": "dragon_ball_pack_8.zip"}
+        ]
+    },
+    {
+        "_id": 45,
+        "name": "Religioso",
+        "desc": "3 Packs ( 75 Stickers )",
+        "icon": "religious_pack_1-preview.webp",
+        "tags": ["love", "amor", "religioso"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "religious_pack_1-preview.webp", "stickers": "religious_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "religious_pack_2-preview.webp", "stickers": "religious_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "religious_pack_3-preview.webp", "stickers": "religious_pack_3.zip"}
+        ]
+    },
+    {
+        "_id": 45,
+        "name": "Dinero",
+        "desc": "2 Packs ( 50 Stickers )",
+        "icon": "money_pack_1-preview.webp",
+        "tags": ["money", "dinero"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "money_pack_1-preview.webp", "stickers": "money_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "money_pack_2-preview.webp", "stickers": "money_pack_2.zip"}
+        ]
+    },
+    {
+        "_id": 46,
+        "name": "Ted",
+        "desc": "2 Packs ( 50 Stickers )",
+        "icon": "ted_pack_1-preview.webp",
+        "tags": ["cartoon", "ted"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "ted_pack_1-preview.webp", "stickers": "ted_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "ted_pack_2-preview.webp", "stickers": "ted_pack_2.zip"}
+        ]
+    },
+    {
+        "_id": 47,
+        "name": "Cheems",
+        "desc": "1 Pack ( 25 Stickers )",
+        "icon": "cheems_pack_1-preview.webp",
+        "tags": ["cartoon", "cheems"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "cheems_pack_1-preview.webp", "stickers": "cheems_pack_1.zip"}
+        ]
+    },
+    {
+        "_id": 48,
+        "name": "Scooby Doo",
+        "desc": "2 Packs ( 50 Stickers )",
+        "icon": "scooby_doo_pack_1-preview.webp",
+        "tags": ["cartoon", "scooby"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "scooby_doo_pack_1-preview.webp", "stickers": "scooby_doo_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "scooby_doo_pack_2-preview.webp", "stickers": "scooby_doo_pack_2.zip"}
+        ]
+    },
+    {
+        "_id": 49,
+        "name": "Saludos",
+        "desc": "3 Packs ( 75 Stickers )",
+        "icon": "scooby_doo_pack_1-preview.webp",
+        "tags": ["cartoon", "saludos"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "saludos_pack_1-preview.webp", "stickers": "saludos_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "saludos_pack_2-preview.webp", "stickers": "saludos_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "saludos_pack_3-preview.webp", "stickers": "saludos_pack_3.zip"}
+        ]
+    },
+    {
+        "_id": 50,
+        "name": "Anonymous",
+        "desc": "8 Packs ( 200 Stickers )",
+        "icon": "anon_pack_1-preview.webp",
+        "tags": ["cartoon", "anonymous"],
+        "packs": [
+            {"_id": 1, "name": "Pack 1", "desc": "25 Stickers", "icon": "anon_pack_1-preview.webp", "stickers": "anon_pack_1.zip"},
+            {"_id": 2, "name": "Pack 2", "desc": "25 Stickers", "icon": "anon_pack_2-preview.webp", "stickers": "anon_pack_2.zip"},
+            {"_id": 3, "name": "Pack 3", "desc": "25 Stickers", "icon": "anon_pack_3-preview.webp", "stickers": "anon_pack_3.zip"},
+            {"_id": 4, "name": "Pack 4", "desc": "25 Stickers", "icon": "anon_pack_4-preview.webp", "stickers": "anon_pack_4.zip"},
+            {"_id": 5, "name": "Pack 5", "desc": "25 Stickers", "icon": "anon_pack_5-preview.webp", "stickers": "anon_pack_5.zip"},
+            {"_id": 6, "name": "Pack 6", "desc": "25 Stickers", "icon": "anon_pack_6-preview.webp", "stickers": "anon_pack_6.zip"},
+            {"_id": 7, "name": "Pack 7", "desc": "25 Stickers", "icon": "anon_pack_7-preview.webp", "stickers": "anon_pack_7.zip"},
+            {"_id": 8, "name": "Pack 8", "desc": "25 Stickers", "icon": "anon_pack_8-preview.webp", "stickers": "anon_pack_8.zip"}
         ]
     }
     
