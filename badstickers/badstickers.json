@@ -1,200 +1,274 @@
 [
   {
-    "_id": 52,
-    "name": "GIF",
-    "desc": "12 Packs ( 300 Stickers )",
-    "icon": "animated-preview.webp",
-    "tags": ["all", "animate"],
-    "packs": [
-      {
-        "_id": 1,
-        "name": "Simpsons Pack 17",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_17-preview.webp",
-        "stickers": "simpsons_pack_17.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 2,
-        "name": "Bob Esponja Pack 12",
-        "desc": "25 Stickers",
-        "icon": "bob_sponge_pack_12-preview.webp",
-        "stickers": "bob_sponge_pack_12.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 3,
-        "name": "Chavo Pack 3",
-        "desc": "25 Stickers",
-        "icon": "chavo_pack_3-preview.webp",
-        "stickers": "chavo_pack_3.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 4,
-        "name": "BAD Pack 8",
-        "desc": "25 Stickers",
-        "icon": "bad_pack_8-preview.webp",
-        "stickers": "bad_pack_8.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 5,
-        "name": "BAD Pack 9",
-        "desc": "25 Stickers",
-        "icon": "bad_pack_9-preview.webp",
-        "stickers": "bad_pack_9.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 6,
-        "name": "BAD Pack 10",
-        "desc": "25 Stickers",
-        "icon": "bad_pack_10-preview.webp",
-        "stickers": "bad_pack_10.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 7,
-        "name": "BAD Pack 11",
-        "desc": "25 Stickers",
-        "icon": "bad_pack_11-preview.webp",
-        "stickers": "bad_pack_11.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 8,
-        "name": "Love Pack 17",
-        "desc": "25 Stickers",
-        "icon": "love_pack_17-preview.webp",
-        "stickers": "love_pack_17.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 9,
-        "name": "Love Pack 18",
-        "desc": "25 Stickers",
-        "icon": "love_pack_18-preview.webp",
-        "stickers": "love_pack_18.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 10,
-        "name": "Love Pack 19",
-        "desc": "25 Stickers",
-        "icon": "love_pack_19-preview.webp",
-        "stickers": "love_pack_19.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 11,
-        "name": "Pack 20",
-        "desc": "25 Stickers",
-        "icon": "love_pack_20-preview.webp",
-        "stickers": "love_pack_20.zip",
-        "animated": "TRUE"
-      },
-      {
-        "_id": 12,
-        "name": "Love Pack 21",
-        "desc": "25 Stickers",
-        "icon": "love_pack_21-preview.webp",
-        "stickers": "love_pack_21.zip",
-        "animated": "TRUE"
-      }
-    ]
-  },
-  {
-    "_id": 0,
-    "name": "BAD",
-    "desc": "11 Packs ( 275 Stickers )",
-    "icon": "bad_pack_1-preview.webp",
-    "tags": ["irreverente"],
+    "_id": 1,
+    "name": "Simpsons",
+    "desc": "17 Packs ( 425 Stickers )",
+    "icon": "simpsons_pack_1-preview.webp",
+    "tags": ["cartoon"],
     "packs": [
       {
         "_id": 1,
         "name": "Pack 1",
         "desc": "25 Stickers",
-        "icon": "bad_pack_1-preview.webp",
-        "stickers": "bad_pack_1.zip"
+        "icon": "simpsons_pack_1-preview.webp",
+        "stickers": "simpsons_pack_1.zip"
       },
       {
         "_id": 2,
         "name": "Pack 2",
         "desc": "25 Stickers",
-        "icon": "bad_pack_2-preview.webp",
-        "stickers": "bad_pack_2.zip"
+        "icon": "simpsons_pack_2-preview.webp",
+        "stickers": "simpsons_pack_2.zip"
       },
       {
         "_id": 3,
         "name": "Pack 3",
         "desc": "25 Stickers",
-        "icon": "bad_pack_3-preview.webp",
-        "stickers": "bad_pack_3.zip"
+        "icon": "simpsons_pack_3-preview.webp",
+        "stickers": "simpsons_pack_3.zip"
       },
       {
         "_id": 4,
         "name": "Pack 4",
         "desc": "25 Stickers",
-        "icon": "bad_pack_4-preview.webp",
-        "stickers": "bad_pack_4.zip"
+        "icon": "simpsons_pack_4-preview.webp",
+        "stickers": "simpsons_pack_4.zip"
       },
       {
         "_id": 5,
         "name": "Pack 5",
         "desc": "25 Stickers",
-        "icon": "bad_pack_5-preview.webp",
-        "stickers": "bad_pack_5.zip"
+        "icon": "simpsons_pack_5-preview.webp",
+        "stickers": "simpsons_pack_5.zip"
       },
       {
         "_id": 6,
         "name": "Pack 6",
         "desc": "25 Stickers",
-        "icon": "bad_pack_6-preview.webp",
-        "stickers": "bad_pack_6.zip"
+        "icon": "simpsons_pack_6-preview.webp",
+        "stickers": "simpsons_pack_6.zip"
       },
       {
         "_id": 7,
         "name": "Pack 7",
         "desc": "25 Stickers",
-        "icon": "bad_pack_7-preview.webp",
-        "stickers": "bad_pack_7.zip"
+        "icon": "simpsons_pack_7-preview.webp",
+        "stickers": "simpsons_pack_7.zip"
       },
       {
         "_id": 8,
         "name": "Pack 8",
         "desc": "25 Stickers",
-        "icon": "bad_pack_8-preview.webp",
-        "stickers": "bad_pack_8.zip",
-        "animated": "TRUE"
+        "icon": "simpsons_pack_8-preview.webp",
+        "stickers": "simpsons_pack_8.zip"
       },
       {
         "_id": 9,
         "name": "Pack 9",
         "desc": "25 Stickers",
-        "icon": "bad_pack_9-preview.webp",
-        "stickers": "bad_pack_9.zip",
-        "animated": "TRUE"
+        "icon": "simpsons_pack_9-preview.webp",
+        "stickers": "simpsons_pack_9.zip"
       },
       {
         "_id": 10,
         "name": "Pack 10",
         "desc": "25 Stickers",
-        "icon": "bad_pack_10-preview.webp",
-        "stickers": "bad_pack_10.zip",
-        "animated": "TRUE"
+        "icon": "simpsons_pack_10-preview.webp",
+        "stickers": "simpsons_pack_10.zip"
       },
       {
         "_id": 11,
         "name": "Pack 11",
+        "desc": "24 Stickers",
+        "icon": "simpsons_pack_11-preview.webp",
+        "stickers": "simpsons_pack_11.zip"
+      },
+      {
+        "_id": 12,
+        "name": "Pack 12",
         "desc": "25 Stickers",
-        "icon": "bad_pack_11-preview.webp",
-        "stickers": "bad_pack_11.zip",
-        "animated": "TRUE"
+        "icon": "simpsons_pack_12-preview.webp",
+        "stickers": "simpsons_pack_12.zip"
+      },
+      {
+        "_id": 13,
+        "name": "Pack 13",
+        "desc": "25 Stickers",
+        "icon": "simpsons_pack_13-preview.webp",
+        "stickers": "simpsons_pack_13.zip"
+      },
+      {
+        "_id": 14,
+        "name": "Pack 14",
+        "desc": "25 Stickers",
+        "icon": "simpsons_pack_14-preview.webp",
+        "stickers": "simpsons_pack_14.zip"
+      },
+      {
+        "_id": 15,
+        "name": "Pack 15",
+        "desc": "25 Stickers",
+        "icon": "simpsons_pack_15-preview.webp",
+        "stickers": "simpsons_pack_15.zip"
+      },
+      {
+        "_id": 16,
+        "name": "Pack 16",
+        "desc": "25 Stickers",
+        "icon": "simpsons_pack_16-preview.webp",
+        "stickers": "simpsons_pack_16.zip"
+      },
+      {
+        "_id": 17,
+        "name": "Pack 17",
+        "desc": "25 Stickers",
+        "icon": "simpsons_pack_17-preview.webp",
+        "stickers": "simpsons_pack_17.zip"
       }
     ]
   },
 
+  {
+    "_id": 6,
+    "name": "Muppets",
+    "desc": "2 Packs ( 50 Stickers )",
+    "icon": "muppets_pack_1-preview.webp",
+    "tags": [],
+    "packs": [
+      {
+        "_id": 1,
+        "name": "Pack 1",
+        "desc": "25 Stickers",
+        "icon": "muppets_pack_1-preview.webp",
+        "stickers": "muppets_pack_1.zip"
+      },
+      {
+        "_id": 2,
+        "name": "Pack 2",
+        "desc": "25 Stickers",
+        "icon": "muppets_pack_2-preview.webp",
+        "stickers": "muppets_pack_2.zip"
+      }
+    ]
+  },
+  {
+    "_id": 7,
+    "name": "Tom & Jerry",
+    "desc": "1 Pack ( 25 Stickers )",
+    "icon": "tom_jerry_pack_1-preview.webp",
+    "tags": ["cartoon"],
+    "packs": [
+      {
+        "_id": 1,
+        "name": "tom_jerry_pack_1",
+        "desc": "25 Stickers",
+        "icon": "tom_jerry_pack_1-preview.webp",
+        "stickers": "tom_jerry_pack_1.zip"
+      }
+    ]
+  },
+  {
+    "_id": 38,
+    "name": "Pokemon",
+    "desc": "4 Packs ( 100 Stickers )",
+    "icon": "pokemon_pack_1-preview.webp",
+    "tags": ["cartoon"],
+    "packs": [
+      {
+        "_id": 1,
+        "name": "Pack 1",
+        "desc": "25 Stickers",
+        "icon": "pokemon_pack_1-preview.webp",
+        "stickers": "pokemon_pack_1.zip"
+      },
+      {
+        "_id": 2,
+        "name": "Pack 2",
+        "desc": "25 Stickers",
+        "icon": "pokemon_pack_2-preview.webp",
+        "stickers": "pokemon_pack_2.zip"
+      },
+      {
+        "_id": 3,
+        "name": "Pack 3",
+        "desc": "25 Stickers",
+        "icon": "pokemon_pack_3-preview.webp",
+        "stickers": "pokemon_pack_3.zip"
+      },
+      {
+        "_id": 4,
+        "name": "Pack 4",
+        "desc": "25 Stickers",
+        "icon": "pokemon_pack_4-preview.webp",
+        "stickers": "pokemon_pack_4.zip"
+      }
+    ]
+  },
+  {
+    "_id": 8,
+    "name": "LOL",
+    "desc": "8 Packs ( 200 Stickers )",
+    "icon": "lol_pack_1-preview.webp",
+    "tags": ["feliz", "risa", "lol"],
+    "packs": [
+      {
+        "_id": 1,
+        "name": "Pack 1",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_1-preview.webp",
+        "stickers": "lol_pack_1.zip"
+      },
+      {
+        "_id": 2,
+        "name": "Pack 2",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_2-preview.webp",
+        "stickers": "lol_pack_2.zip"
+      },
+      {
+        "_id": 3,
+        "name": "Pack 3",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_3-preview.webp",
+        "stickers": "lol_pack_3.zip"
+      },
+      {
+        "_id": 4,
+        "name": "Pack 4",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_4-preview.webp",
+        "stickers": "lol_pack_4.zip"
+      },
+      {
+        "_id": 5,
+        "name": "Pack 5",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_5-preview.webp",
+        "stickers": "lol_pack_5.zip"
+      },
+      {
+        "_id": 6,
+        "name": "Pack 6",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_6-preview.webp",
+        "stickers": "lol_pack_6.zip"
+      },
+      {
+        "_id": 7,
+        "name": "Pack 7",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_7-preview.webp",
+        "stickers": "lol_pack_7.zip"
+      },
+      {
+        "_id": 8,
+        "name": "Pack 8",
+        "desc": "25 Stickers",
+        "icon": "lol_pack_8-preview.webp",
+        "stickers": "lol_pack_8.zip"
+      }
+    ]
+  },
   {
     "_id": 10,
     "name": "Respuestas con Texto",
@@ -728,134 +802,6 @@
         "icon": "chavo_pack_3-preview.webp",
         "stickers": "chavo_pack_3.zip",
         "animated": true
-      }
-    ]
-  },
-  {
-    "_id": 1,
-    "name": "Simpsons",
-    "desc": "17 Packs ( 425 Stickers )",
-    "icon": "simpsons_pack_1-preview.webp",
-    "tags": ["cartoon"],
-    "packs": [
-      {
-        "_id": 1,
-        "name": "Pack 1",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_1-preview.webp",
-        "stickers": "simpsons_pack_1.zip"
-      },
-      {
-        "_id": 2,
-        "name": "Pack 2",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_2-preview.webp",
-        "stickers": "simpsons_pack_2.zip"
-      },
-      {
-        "_id": 3,
-        "name": "Pack 3",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_3-preview.webp",
-        "stickers": "simpsons_pack_3.zip"
-      },
-      {
-        "_id": 4,
-        "name": "Pack 4",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_4-preview.webp",
-        "stickers": "simpsons_pack_4.zip"
-      },
-      {
-        "_id": 5,
-        "name": "Pack 5",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_5-preview.webp",
-        "stickers": "simpsons_pack_5.zip"
-      },
-      {
-        "_id": 6,
-        "name": "Pack 6",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_6-preview.webp",
-        "stickers": "simpsons_pack_6.zip"
-      },
-      {
-        "_id": 7,
-        "name": "Pack 7",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_7-preview.webp",
-        "stickers": "simpsons_pack_7.zip"
-      },
-      {
-        "_id": 8,
-        "name": "Pack 8",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_8-preview.webp",
-        "stickers": "simpsons_pack_8.zip"
-      },
-      {
-        "_id": 9,
-        "name": "Pack 9",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_9-preview.webp",
-        "stickers": "simpsons_pack_9.zip"
-      },
-      {
-        "_id": 10,
-        "name": "Pack 10",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_10-preview.webp",
-        "stickers": "simpsons_pack_10.zip"
-      },
-      {
-        "_id": 11,
-        "name": "Pack 11",
-        "desc": "24 Stickers",
-        "icon": "simpsons_pack_11-preview.webp",
-        "stickers": "simpsons_pack_11.zip"
-      },
-      {
-        "_id": 12,
-        "name": "Pack 12",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_12-preview.webp",
-        "stickers": "simpsons_pack_12.zip"
-      },
-      {
-        "_id": 13,
-        "name": "Pack 13",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_13-preview.webp",
-        "stickers": "simpsons_pack_13.zip"
-      },
-      {
-        "_id": 14,
-        "name": "Pack 14",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_14-preview.webp",
-        "stickers": "simpsons_pack_14.zip"
-      },
-      {
-        "_id": 15,
-        "name": "Pack 15",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_15-preview.webp",
-        "stickers": "simpsons_pack_15.zip"
-      },
-      {
-        "_id": 16,
-        "name": "Pack 16",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_16-preview.webp",
-        "stickers": "simpsons_pack_16.zip"
-      },
-      {
-        "_id": 17,
-        "name": "Pack 17",
-        "desc": "25 Stickers",
-        "icon": "simpsons_pack_17-preview.webp",
-        "stickers": "simpsons_pack_17.zip"
       }
     ]
   },
@@ -1696,147 +1642,6 @@
         "desc": "25 Stickers",
         "icon": "meme_pack_4-preview.webp",
         "stickers": "meme_pack_4.zip"
-      }
-    ]
-  },
-  {
-    "_id": 6,
-    "name": "Muppets",
-    "desc": "2 Packs ( 50 Stickers )",
-    "icon": "muppets_pack_1-preview.webp",
-    "tags": [],
-    "packs": [
-      {
-        "_id": 1,
-        "name": "Pack 1",
-        "desc": "25 Stickers",
-        "icon": "muppets_pack_1-preview.webp",
-        "stickers": "muppets_pack_1.zip"
-      },
-      {
-        "_id": 2,
-        "name": "Pack 2",
-        "desc": "25 Stickers",
-        "icon": "muppets_pack_2-preview.webp",
-        "stickers": "muppets_pack_2.zip"
-      }
-    ]
-  },
-  {
-    "_id": 7,
-    "name": "Tom & Jerry",
-    "desc": "1 Pack ( 25 Stickers )",
-    "icon": "tom_jerry_pack_1-preview.webp",
-    "tags": ["cartoon"],
-    "packs": [
-      {
-        "_id": 1,
-        "name": "tom_jerry_pack_1",
-        "desc": "25 Stickers",
-        "icon": "tom_jerry_pack_1-preview.webp",
-        "stickers": "tom_jerry_pack_1.zip"
-      }
-    ]
-  },
-  {
-    "_id": 38,
-    "name": "Pokemon",
-    "desc": "4 Packs ( 100 Stickers )",
-    "icon": "pokemon_pack_1-preview.webp",
-    "tags": ["cartoon"],
-    "packs": [
-      {
-        "_id": 1,
-        "name": "Pack 1",
-        "desc": "25 Stickers",
-        "icon": "pokemon_pack_1-preview.webp",
-        "stickers": "pokemon_pack_1.zip"
-      },
-      {
-        "_id": 2,
-        "name": "Pack 2",
-        "desc": "25 Stickers",
-        "icon": "pokemon_pack_2-preview.webp",
-        "stickers": "pokemon_pack_2.zip"
-      },
-      {
-        "_id": 3,
-        "name": "Pack 3",
-        "desc": "25 Stickers",
-        "icon": "pokemon_pack_3-preview.webp",
-        "stickers": "pokemon_pack_3.zip"
-      },
-      {
-        "_id": 4,
-        "name": "Pack 4",
-        "desc": "25 Stickers",
-        "icon": "pokemon_pack_4-preview.webp",
-        "stickers": "pokemon_pack_4.zip"
-      }
-    ]
-  },
-  {
-    "_id": 8,
-    "name": "LOL",
-    "desc": "8 Packs ( 200 Stickers )",
-    "icon": "lol_pack_1-preview.webp",
-    "tags": ["feliz", "risa", "lol"],
-    "packs": [
-      {
-        "_id": 1,
-        "name": "Pack 1",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_1-preview.webp",
-        "stickers": "lol_pack_1.zip"
-      },
-      {
-        "_id": 2,
-        "name": "Pack 2",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_2-preview.webp",
-        "stickers": "lol_pack_2.zip"
-      },
-      {
-        "_id": 3,
-        "name": "Pack 3",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_3-preview.webp",
-        "stickers": "lol_pack_3.zip"
-      },
-      {
-        "_id": 4,
-        "name": "Pack 4",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_4-preview.webp",
-        "stickers": "lol_pack_4.zip"
-      },
-      {
-        "_id": 5,
-        "name": "Pack 5",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_5-preview.webp",
-        "stickers": "lol_pack_5.zip"
-      },
-      {
-        "_id": 6,
-        "name": "Pack 6",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_6-preview.webp",
-        "stickers": "lol_pack_6.zip"
-      },
-      {
-        "_id": 7,
-        "name": "Pack 7",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_7-preview.webp",
-        "stickers": "lol_pack_7.zip"
-      },
-      {
-        "_id": 8,
-        "name": "Pack 8",
-        "desc": "25 Stickers",
-        "icon": "lol_pack_8-preview.webp",
-        "stickers": "lol_pack_8.zip"
       }
     ]
   },
