@@ -1,97 +1,18 @@
 [
   {
-    "_id": 51,
-    "name": "Navidad",
-    "desc": "12 Packs ( 300 Stickers )",
-    "icon": "navidad_pack_1-preview.webp",
-    "tags": ["cartoon", "movie", "party", "holiday"],
-    "packs": [
-      {
-        "_id": 1,
-        "name": "Pack 1",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_1-preview.webp",
-        "stickers": "navidad_pack_1.zip"
-      },
-      {
-        "_id": 2,
-        "name": "Pack 2",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_2-preview.webp",
-        "stickers": "navidad_pack_2.zip"
-      },
-      {
-        "_id": 3,
-        "name": "Pack 3",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_3-preview.webp",
-        "stickers": "navidad_pack_3.zip"
-      },
-      {
-        "_id": 4,
-        "name": "Pack 4",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_4-preview.webp",
-        "stickers": "navidad_pack_4.zip"
-      },
-      {
-        "_id": 5,
-        "name": "Pack 5",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_5-preview.webp",
-        "stickers": "navidad_pack_5.zip"
-      },
-      {
-        "_id": 6,
-        "name": "Pack 6",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_6-preview.webp",
-        "stickers": "navidad_pack_6.zip"
-      },
-      {
-        "_id": 7,
-        "name": "Pack 7",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_7-preview.webp",
-        "stickers": "navidad_pack_7.zip"
-      },
-      {
-        "_id": 8,
-        "name": "Pack 8",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_8-preview.webp",
-        "stickers": "navidad_pack_8.zip"
-      },
-      {
-        "_id": 9,
-        "name": "Pack 9",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_9-preview.webp",
-        "stickers": "navidad_pack_9.zip"
-      },
-      {
-        "_id": 10,
-        "name": "Pack 10",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_10-preview.webp",
-        "stickers": "navidad_pack_10.zip"
-      },
-      {
-        "_id": 11,
-        "name": "Pack 11",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_11-preview.webp",
-        "stickers": "navidad_pack_11.zip"
-      },
-      {
-        "_id": 12,
-        "name": "Pack 12",
-        "desc": "25 Stickers",
-        "icon": "navidad_pack_12-preview.webp",
-        "stickers": "navidad_pack_12.zip"
-      }
-    ]
-  },
+    "_id": 52,
+    "name": "GIF",
+    "desc": "1 Pack ( 25 Stickers )",
+    "icon": "animated_pack_1-preview.webp",
+    "tags": ["all", "animate"],
+    "packs": [{
+      "_id": 1,
+      "name": "Pack 1",
+      "desc": "25 Stickers",
+      "icon": "animated_pack_1-preview.webp",
+      "stickers": "animated_pack_1.zip"
+    },
+  ],
   {
     "_id": 0,
     "name": "BAD",
@@ -2809,6 +2730,99 @@
         "desc": "25 Stickers",
         "icon": "anon_pack_8-preview.webp",
         "stickers": "anon_pack_8.zip"
+      }
+    ]
+  },
+  {
+    "_id": 51,
+    "name": "Navidad",
+    "desc": "12 Packs ( 300 Stickers )",
+    "icon": "navidad_pack_1-preview.webp",
+    "tags": ["cartoon", "movie", "party", "holiday"],
+    "packs": [
+      {
+        "_id": 1,
+        "name": "Pack 1",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_1-preview.webp",
+        "stickers": "navidad_pack_1.zip"
+      },
+      {
+        "_id": 2,
+        "name": "Pack 2",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_2-preview.webp",
+        "stickers": "navidad_pack_2.zip"
+      },
+      {
+        "_id": 3,
+        "name": "Pack 3",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_3-preview.webp",
+        "stickers": "navidad_pack_3.zip"
+      },
+      {
+        "_id": 4,
+        "name": "Pack 4",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_4-preview.webp",
+        "stickers": "navidad_pack_4.zip"
+      },
+      {
+        "_id": 5,
+        "name": "Pack 5",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_5-preview.webp",
+        "stickers": "navidad_pack_5.zip"
+      },
+      {
+        "_id": 6,
+        "name": "Pack 6",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_6-preview.webp",
+        "stickers": "navidad_pack_6.zip"
+      },
+      {
+        "_id": 7,
+        "name": "Pack 7",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_7-preview.webp",
+        "stickers": "navidad_pack_7.zip"
+      },
+      {
+        "_id": 8,
+        "name": "Pack 8",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_8-preview.webp",
+        "stickers": "navidad_pack_8.zip"
+      },
+      {
+        "_id": 9,
+        "name": "Pack 9",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_9-preview.webp",
+        "stickers": "navidad_pack_9.zip"
+      },
+      {
+        "_id": 10,
+        "name": "Pack 10",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_10-preview.webp",
+        "stickers": "navidad_pack_10.zip"
+      },
+      {
+        "_id": 11,
+        "name": "Pack 11",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_11-preview.webp",
+        "stickers": "navidad_pack_11.zip"
+      },
+      {
+        "_id": 12,
+        "name": "Pack 12",
+        "desc": "25 Stickers",
+        "icon": "navidad_pack_12-preview.webp",
+        "stickers": "navidad_pack_12.zip"
       }
     ]
   }
