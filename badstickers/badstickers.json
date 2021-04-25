@@ -12,6 +12,13 @@
         "desc": "25 Stickers",
         "icon": "animated_pack_1-preview.webp",
         "stickers": "animated_pack_1.zip"
+      },
+      {
+        "_id": 2,
+        "name": "Pack 2",
+        "desc": "25 Stickers",
+        "icon": "animated_pack_2-preview.webp",
+        "stickers": "animated_pack_2.zip"
       }
     ]
   },
