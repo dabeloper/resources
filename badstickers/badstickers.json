@@ -604,7 +604,7 @@
   {
     "_id": 20,
     "name": "COLOMBIA",
-    "desc": "6 Packs ( 150 Stickers )",
+    "desc": "7 Packs ( 175 Stickers )",
     "icon": "colombia_pack_1-preview.webp",
     "tags": [],
     "packs": [
@@ -649,6 +649,14 @@
         "desc": "25 Stickers",
         "icon": "colombia_pack_6-preview.webp",
         "stickers": "colombia_pack_6.zip"
+      },
+      {
+        "_id": 7,
+        "name": "Pack 7",
+        "desc": "25 Stickers",
+        "icon": "colombia_pack_7-preview.webp",
+        "stickers": "colombia_pack_7.zip",
+        "animated": false
       }
     ]
   },
