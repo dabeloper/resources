@@ -53,13 +53,29 @@
         "icon": "simpsons_pack_18-preview.webp",
         "stickers": "simpsons_pack_18.zip",
         "animated": "TRUE"
+      },
+      {
+        "_id": 12,
+        "name": "BAD #12",
+        "desc": "25 Stickers",
+        "icon": "bad_pack_12-preview.webp",
+        "stickers": "bad_pack_12.zip",
+        "animated": "TRUE"
+      },
+      {
+        "_id": 13,
+        "name": "BAD #13",
+        "desc": "25 Stickers",
+        "icon": "bad_pack_13-preview.webp",
+        "stickers": "bad_pack_13.zip",
+        "animated": "TRUE"
       }
     ]
   },
   {
     "_id": 0,
     "name": "BAD",
-    "desc": "11 Packs ( 275 Stickers )",
+    "desc": "13 Packs ( 325 Stickers )",
     "icon": "bad_pack_1-preview.webp",
     "tags": ["irreverente"],
     "packs": [
@@ -142,6 +158,22 @@
         "desc": "25 Stickers",
         "icon": "bad_pack_11-preview.webp",
         "stickers": "bad_pack_11.zip",
+        "animated": "TRUE"
+      },
+      {
+        "_id": 12,
+        "name": "Pack 12",
+        "desc": "25 Stickers",
+        "icon": "bad_pack_12-preview.webp",
+        "stickers": "bad_pack_12.zip",
+        "animated": "TRUE"
+      },
+      {
+        "_id": 13,
+        "name": "Pack 13",
+        "desc": "25 Stickers",
+        "icon": "bad_pack_13-preview.webp",
+        "stickers": "bad_pack_13.zip",
         "animated": "TRUE"
       }
     ]
